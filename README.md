@@ -41,7 +41,7 @@ With a single input file, `thermo_pw.x` automatically:
 1. Install [Quantum ESPRESSO](https://www.quantum-espresso.org/download/).  
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/thermo_pw.git
+   git clone https://github.com/deobratsingh9/thermo_pw.git
 Compile thermo_pw.x:
 
 bash
