@@ -25,6 +25,19 @@ With a single input file, `thermo_pw.x` automatically:
   - Debye temperature, sound velocities
   - Grüneisen parameters
   - Free energy, entropy, and heat capacity vs. temperature
+    
+ -**Grüneisen parameters and Phonon dispersions**
+  -Phonon dispersions at each selected lattice constant (each ngeo)
+  -Phonon DOS at each geometry
+  -Zero-point energy contribution to lattice constant & bulk modulus
+  -Vibrational free energy F(T), entropy S(T), internal energy U(T)
+  -Isochoric heat capacity Cv(T)
+  -Grüneisen parameters at each geometry
+  -Temperature-dependent lattice constant a(T)
+  -Temperature-dependent bulk modulus B(T)
+  -Average Grüneisen parameter γ(T)
+  -Isobaric heat capacity Cp(T)
+  -Isoentropic bulk modulus Bs(T)
 
 - **Optical Properties**
   - Dielectric function
