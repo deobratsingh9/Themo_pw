@@ -27,6 +27,7 @@ With a single input file, `thermo_pw.x` automatically:
   - Free energy, entropy, and heat capacity vs. temperature
     
  -**Grüneisen parameters and Phonon dispersions**
+ 
   -Phonon dispersions at each selected lattice constant (each ngeo)
   -Phonon DOS at each geometry
   -Zero-point energy contribution to lattice constant & bulk modulus
